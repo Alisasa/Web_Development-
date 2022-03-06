@@ -1,0 +1,26 @@
+1. Basic 
+option1:
+$(function(){//code to be executed})
+option2:
+$(document).ready(function(){//code to be executed})
+
+2.Events
+2.1 Mouse Events
+
+events: 
+click
+dblclick
+mouseover
+
+write button class in html:<button>Button</button>
+write funtion in js: let btn = $('button'); btn.on('click dblclick mouseover',function(){console.log('Have a nice day!'); })
+
+2.2 Keyboard Events
+
+events:
+keypress
+keydown
+keyup
+
+2.3 Form Events
+2.4 Window Events
