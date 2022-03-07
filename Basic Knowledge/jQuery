@@ -23,4 +23,18 @@ keydown
 keyup
 
 2.3 Form Events
+submit
+change
+focus
+
 2.4 Window Events
+load
+resize
+scroll
+
+3. style
+
+4.visual effect
+4.1 show()  hide() =>toggle()
+4.2 fadeIn() fadeOut() => fadeToggle()
+4.3 slideDown() slideUp() =>slideToggle()
