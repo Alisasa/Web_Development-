@@ -8,4 +8,6 @@ control + C
 shift
 enter
 node app.js
+
+ctrl+shift+k => delete whole line
 '''
